@@ -21,6 +21,8 @@ app.get('/categories', (req, res) => {
  app.get('/recipes/:id', (req, res) => {
     const id = req.params.id;
     console.log(id);
+    const selectedRecipe = recipes.find(n=>n.id == id);
+    res.send(selectedRecipe);
  })
 
 app.get('/catagories/:id', (req, res) => {
