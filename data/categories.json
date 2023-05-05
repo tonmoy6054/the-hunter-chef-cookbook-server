@@ -5,7 +5,7 @@
       "yearsOfExperience": 10,
       "numRecipes": 50,
       "likes": 500,
-      "chefPicture": "https://example.com/chef-alice-smith.jpg",
+      "chefPicture": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=360&t=st=1683104732~exp=1683105332~hmac=945c812957d669eceaa8b755f4fd891e94f3a04ed711131f5a103e0a8cdeb5ec",
       "viewRecipesButton": "https://example.com/chef-alice-smith/recipes"
     },
     {
@@ -14,7 +14,7 @@
       "yearsOfExperience": 8,
       "numRecipes": 30,
       "likes": 400,
-      "chefPicture": "https://example.com/chef-bob-johnson.jpg",
+      "chefPicture": "https://media.istockphoto.com/id/866699668/photo/gourmet-chef-cooking-in-a-commercial-kitchen.jpg?s=612x612&w=is&k=20&c=48Wm14S-laq6d5TEJTZkcXtuOtQ8E0LGEl6DuFGxCzE=",
       "viewRecipesButton": "https://example.com/chef-bob-johnson/recipes"
     },
     {
@@ -23,7 +23,7 @@
       "yearsOfExperience": 12,
       "numRecipes": 70,
       "likes": 600,
-      "chefPicture": "https://example.com/chef-cathy-chen.jpg",
+      "chefPicture": "https://media.istockphoto.com/id/1136638047/photo/i-love-my-work-cheerful-young-chef-in-apron-keeping-tattooed-arms-crossed-and-smiling-while.jpg?s=612x612&w=is&k=20&c=usMkjd3_d-p_rwGWWEU4AlLSeUbTDXEuHuJZE9BcipI=",
       "viewRecipesButton": "https://example.com/chef-cathy-chen/recipes"
     },
     {
@@ -32,7 +32,7 @@
       "yearsOfExperience": 12,
       "numRecipes": 90,
       "likes": 680,
-      "chefPicture": "https://example.com/chef-cathy-chen.jpg",
+      "chefPicture": "https://media.istockphoto.com/id/1158191245/photo/chef-serving-food.jpg?s=1024x1024&w=is&k=20&c=HzwU6KiTVpnI6lAeJS93I1sWFvd4UxsGoftVjKmGs1Y=",
       "viewRecipesButton": "https://example.com/chef-cathy-chen/recipes"
     },
     {
@@ -41,7 +41,7 @@
       "yearsOfExperience": 12,
       "numRecipes": 70,
       "likes": 680,
-      "chefPicture": "https://example.com/chef-cathy-chen.jpg",
+      "chefPicture": "https://thumbs.dreamstime.com/b/chef-cook-food-fire-kitchen-restaurant-wok-male-uniform-hold-186991880.jpg",
       "viewRecipesButton": "https://example.com/chef-cathy-chen/recipes"
     },
     {
@@ -50,7 +50,7 @@
       "yearsOfExperience": 11,
       "numRecipes": 79,
       "likes": 609,
-      "chefPicture": "https://example.com/chef-cathy-chen.jpg"
+      "chefPicture": "https://media.istockphoto.com/id/1408797987/photo/chef-decorating-a-plate-while-working-in-the-kitchen-at-a-restaurant.jpg?s=1024x1024&w=is&k=20&c=t_rYcayilFFV8MuE-2B3rA-Ekdl1P-FUdyACzzmxHy4="
       
     }
   ]

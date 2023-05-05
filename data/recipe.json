@@ -1,0 +1,183 @@
+[{
+    "id": 1,
+    "chef_picture": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=360&t=st=1683104732~exp=1683105332~hmac=945c812957d669eceaa8b755f4fd891e94f3a04ed711131f5a103e0a8cdeb5ec",
+    "chef_name": "Alice Smith",
+    "description": "Alice Smith is a Scottish chef, restaurateur, television personality, and author. He has been awarded a total of 16 Michelin Stars throughout his career.",
+    "likes": 500,
+    "num_recipes": 50,
+    "years_experience": 10,
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "shallots", "prosciutto"],
+        "cooking_method": "Preheat oven to 400°F. Sear the beef and set aside. Sauté the mushrooms, shallots, and prosciutto and let cool. Roll out puff pastry, add mushroom mixture, then the beef. Brush with egg wash and bake for 40-45 minutes.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Eggs Benedict",
+        "ingredients": ["English muffins", "Canadian bacon", "eggs", "butter", "lemon juice"],
+        "cooking_method": "Toast the muffins and cook the bacon. Poach the eggs and assemble the dish by placing the bacon on the muffin, followed by the poached egg. Top with hollandaise sauce made by whisking together egg yolks, lemon juice, and butter.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Beef Bourguignon",
+        "ingredients": ["beef chuck", "bacon", "carrots", "onions", "red wine"],
+        "cooking_method": "Sear the beef and bacon, then add the vegetables. Pour in the red wine and broth. Simmer for 2-3 hours. Serve over mashed potatoes or with crusty bread.",
+        "rating": 4.7
+      }
+    ]
+  },
+
+
+  {
+    "id":2,
+    "chef_picture": "https://media.istockphoto.com/id/866699668/photo/gourmet-chef-cooking-in-a-commercial-kitchen.jpg?s=612x612&w=is&k=20&c=48Wm14S-laq6d5TEJTZkcXtuOtQ8E0LGEl6DuFGxCzE=",
+    "chef_name": "Bob Johnson",
+    "description": "Bob Johnson is a Scottish chef, restaurateur, television personality, and author. He has been awarded a total of 16 Michelin Stars throughout his career.",
+    "likes": 400,
+    "num_recipes": 30,
+    "years_experience": 8,
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "shallots", "prosciutto"],
+        "cooking_method": "Preheat oven to 400°F. Sear the beef and set aside. Sauté the mushrooms, shallots, and prosciutto and let cool. Roll out puff pastry, add mushroom mixture, then the beef. Brush with egg wash and bake for 40-45 minutes.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Eggs Benedict",
+        "ingredients": ["English muffins", "Canadian bacon", "eggs", "butter", "lemon juice"],
+        "cooking_method": "Toast the muffins and cook the bacon. Poach the eggs and assemble the dish by placing the bacon on the muffin, followed by the poached egg. Top with hollandaise sauce made by whisking together egg yolks, lemon juice, and butter.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chicken Bourguignon",
+        "ingredients": ["Chicken chuck", "bacon", "carrots", "onions", "red wine"],
+        "cooking_method": "Sear the beef and bacon, then add the vegetables. Pour in the red wine and broth. Simmer for 2-3 hours. Serve over mashed potatoes or with crusty bread.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id":3,
+    "chef_picture": "https://www.chefgordonramsay.com/wp-content/uploads/2018/06/Gordon-Ramsay.jpg",
+    "chef_name": "Cathy Chen",
+    "description": "Cathy Chen is a Scottish chef, restaurateur, television personality, and author. He has been awarded a total of 16 Michelin Stars throughout his career.",
+    "likes": 600,
+    "num_recipes": 70,
+    "years_experience": 12,
+    "recipes": [
+      {
+        "recipe_name": "Mutton Wellington",
+        "ingredients": ["mutton tenderloin", "puff pastry", "mushrooms", "shallots", "prosciutto"],
+        "cooking_method": "Preheat oven to 400°F. Sear the beef and set aside. Sauté the mushrooms, shallots, and prosciutto and let cool. Roll out puff pastry, add mushroom mixture, then the beef. Brush with egg wash and bake for 40-45 minutes.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Eggs copta",
+        "ingredients": ["English muffins", "Canadian bacon", "eggs", "butter", "lemon juice"],
+        "cooking_method": "Toast the muffins and cook the bacon. Poach the eggs and assemble the dish by placing the bacon on the muffin, followed by the poached egg. Top with hollandaise sauce made by whisking together egg yolks, lemon juice, and butter.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Beef Bourguignon",
+        "ingredients": ["beef chuck", "bacon", "carrots", "onions", "red wine"],
+        "cooking_method": "Sear the beef and bacon, then add the vegetables. Pour in the red wine and broth. Simmer for 2-3 hours. Serve over mashed potatoes or with crusty bread.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id":4,
+    "chef_picture": "https://media.istockphoto.com/id/1158191245/photo/chef-serving-food.jpg?s=1024x1024&w=is&k=20&c=HzwU6KiTVpnI6lAeJS93I1sWFvd4UxsGoftVjKmGs1Y=",
+    "chef_name": "Malinga Bandara",
+    "description": "Malinga Bandara is a Scottish chef, restaurateur, television personality, and author. He has been awarded a total of 16 Michelin Stars throughout his career.",
+    "likes": 680,
+    "num_recipes": 90,
+    "years_experience": 12,
+    "recipes": [
+      {
+        "recipe_name": "Fish Wellington",
+        "ingredients": ["fish tenderloin", "puff pastry", "mushrooms", "shallots", "prosciutto"],
+        "cooking_method": "Preheat oven to 400°F. Sear the beef and set aside. Sauté the mushrooms, shallots, and prosciutto and let cool. Roll out puff pastry, add mushroom mixture, then the beef. Brush with egg wash and bake for 40-45 minutes.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Eggs Boil curry",
+        "ingredients": ["English muffins", "Canadian bacon", "eggs", "butter", "lemon juice"],
+        "cooking_method": "Toast the muffins and cook the bacon. Poach the eggs and assemble the dish by placing the bacon on the muffin, followed by the poached egg. Top with hollandaise sauce made by whisking together egg yolks, lemon juice, and butter.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Beef Bourguignon",
+        "ingredients": ["beef chuck", "bacon", "carrots", "onions", "red wine"],
+        "cooking_method": "Sear the beef and bacon, then add the vegetables. Pour in the red wine and broth. Simmer for 2-3 hours. Serve over mashed potatoes or with crusty bread.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id":5,
+    "chef_picture": "https://thumbs.dreamstime.com/b/chef-cook-food-fire-kitchen-restaurant-wok-male-uniform-hold-186991880.jpg",
+    "chef_name": "Creig Loucorachee",
+    "description": "Creig Loucorachee is a Scottish chef, restaurateur, television personality, and author. He has been awarded a total of 16 Michelin Stars throughout his career.",
+    "likes": 680,
+    "num_recipes": 70,
+    "years_experience": 12,
+    "recipes": [
+      {
+        "recipe_name": "Beef Masakadza",
+        "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "shallots", "prosciutto"],
+        "cooking_method": "Preheat oven to 400°F. Sear the beef and set aside. Sauté the mushrooms, shallots, and prosciutto and let cool. Roll out puff pastry, add mushroom mixture, then the beef. Brush with egg wash and bake for 40-45 minutes.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Canadian Eggs Benedict",
+        "ingredients": ["English muffins", "Canadian bacon", "eggs", "butter", "lemon juice"],
+        "cooking_method": "Toast the muffins and cook the bacon. Poach the eggs and assemble the dish by placing the bacon on the muffin, followed by the poached egg. Top with hollandaise sauce made by whisking together egg yolks, lemon juice, and butter.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Beef Curry Bourguignon",
+        "ingredients": ["beef chuck", "bacon", "carrots", "onions", "red wine"],
+        "cooking_method": "Sear the beef and bacon, then add the vegetables. Pour in the red wine and broth. Simmer for 2-3 hours. Serve over mashed potatoes or with crusty bread.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id":6,
+    "chef_picture": "https://media.istockphoto.com/id/1408797987/photo/chef-decorating-a-plate-while-working-in-the-kitchen-at-a-restaurant.jpg?s=1024x1024&w=is&k=20&c=t_rYcayilFFV8MuE-2B3rA-Ekdl1P-FUdyACzzmxHy4=",
+    "chef_name": "Elton Chigumbura",
+    "description": "Elton Chigumbura is a Scottish chef, restaurateur, television personality, and author. He has been awarded a total of 16 Michelin Stars throughout his career.",
+    "likes": 609,
+    "num_recipes": 79,
+    "years_experience": 11,
+    "recipes": [
+      {
+        "recipe_name": "Soya Wellington",
+        "ingredients": ["soya tenderloin", "puff pastry", "mushrooms", "shallots", "prosciutto"],
+        "cooking_method": "Preheat oven to 400°F. Sear the beef and set aside. Sauté the mushrooms, shallots, and prosciutto and let cool. Roll out puff pastry, add mushroom mixture, then the beef. Brush with egg wash and bake for 40-45 minutes.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Eggs Chili Benedict",
+        "ingredients": ["English muffins", "Canadian bacon", "eggs", "butter", "lemon juice"],
+        "cooking_method": "Toast the muffins and cook the bacon. Poach the eggs and assemble the dish by placing the bacon on the muffin, followed by the poached egg. Top with hollandaise sauce made by whisking together egg yolks, lemon juice, and butter.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Beef Bourguignon",
+        "ingredients": ["beef chuck", "bacon", "carrots", "onions", "red wine"],
+        "cooking_method": "Sear the beef and bacon, then add the vegetables. Pour in the red wine and broth. Simmer for 2-3 hours. Serve over mashed potatoes or with crusty bread.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
+
+  
+
+  
+
+ 
