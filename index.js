@@ -18,6 +18,11 @@ app.get('/categories', (req, res) => {
     res.send(recipes);
  })
 
+ app.get('/recipes/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+ })
+
 app.get('/catagories/:id', (req, res) => {
     const id = req.params.id;
     console.log(id);
